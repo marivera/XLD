@@ -8,7 +8,7 @@
          <item>
             <title>バージョン 20141129a</title>
 						<sparkle:releaseNotesLink>
-							http://xld.googlecode.com/svn/appcast/releasenotes.html
+							https://svn.code.sf.net/p/xld/code/appcast/releasenotes.html
 						</sparkle:releaseNotesLink>
             <pubDate>Sun, 23 Aug 2015 20:25:00 +0900</pubDate>
             <enclosure url="http://sourceforge.net/projects/xld/files/xld-20141129a.dmg" sparkle:version="148.2" sparkle:shortVersionString="20141129a" sparkle:dsaSignature="MC0CFGX9b9thk4okAStZRJwzUU9ZPru6AhUAj1cFMm9o69zSMdwWgiIwdVHUEhY=" length="7445385" type="application/octet-stream"/>
