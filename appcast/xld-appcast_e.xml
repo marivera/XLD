@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
    <channel>
       <title>XLD's Changelog</title>
-      <link>http://xld.googlecode.com/files/xld-appcast2_e.xml</link>
+      <link>https://svn.code.sf.net/p/xld/code/appcast/xld-appcast_e.xml</link>
       <description>Most recent changes with links to updates.</description>
       <language>en</language>
          <item>
-            <title>Version 20151128</title>
+            <title>Version 20151214</title>
 						<sparkle:releaseNotesLink>
 							https://svn.code.sf.net/p/xld/code/appcast/releasenotes_e.html
 						</sparkle:releaseNotesLink>
-            <pubDate>Sun, 29 Nov 2015 00:30:00 +0900</pubDate>
-            <enclosure url="http://sourceforge.net/projects/xld/files/xld-20151128.dmg" sparkle:version="149.0" sparkle:shortVersionString="20151128" sparkle:dsaSignature="MCwCFHxB9hvtAonaXnTMFUW2+wSGTNzaAhQHZa5fFqHrfR0XK1NeJfjrkQumxg==" length="7564587" type="application/octet-stream"/>
+            <pubDate>Tue, 15 Dec 2015 02:45:00 +0900</pubDate>
+            <enclosure url="http://sourceforge.net/projects/xld/files/xld-20151214.dmg" sparkle:version="149.1" sparkle:shortVersionString="20151214" sparkle:dsaSignature="MCwCFFGLzT4HxxoZtnaGC9gBwPYHQbRIAhQZOsjAp43MyA7DlawredW9COh/3w==" length="7566001" type="application/octet-stream"/>
          </item>
    </channel>
 </rss>
