@@ -6,12 +6,12 @@
       <description>Most recent changes with links to updates.</description>
       <language>en</language>
          <item>
-            <title>Version 20161007</title>
+            <title>Version 20170710</title>
 						<sparkle:releaseNotesLink>
 							https://svn.code.sf.net/p/xld/code/appcast/releasenotes_e.html
 						</sparkle:releaseNotesLink>
-            <pubDate>Fri, 7 Oct 2016 01:00:00 +0900</pubDate>
-            <enclosure url="http://sourceforge.net/projects/xld/files/xld-20161007.dmg" sparkle:version="149.3" sparkle:shortVersionString="20161007" sparkle:dsaSignature="MCwCFGLxI0ZKxxS+M0/YSrB58YR0KkCpAhQHnK/o8ipaml2Q3WzVJpH84HvCng==" length="7569368" type="application/octet-stream"/>
+            <pubDate>Tue, 11 Jul 2017 02:50:00 +0900</pubDate>
+            <enclosure url="http://sourceforge.net/projects/xld/files/xld-20170710.dmg" sparkle:version="150.0" sparkle:shortVersionString="20170710" sparkle:dsaSignature="MCwCFAHxNYKw1fzWOGX3g017zIR7kHn2AhQZGFrjttXDcScBPa97xxCM87Z1jw==" length="6827557" type="application/octet-stream"/>
          </item>
    </channel>
 </rss>
