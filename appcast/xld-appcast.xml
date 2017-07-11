@@ -10,8 +10,8 @@
 						<sparkle:releaseNotesLink>
 							https://svn.code.sf.net/p/xld/code/appcast/releasenotes.html
 						</sparkle:releaseNotesLink>
-            <pubDate>Tue, 11 Jul 2017 02:50:00 +0900</pubDate>
-            <enclosure url="http://sourceforge.net/projects/xld/files/xld-20170710.dmg" sparkle:version="150.0" sparkle:shortVersionString="20170710" sparkle:dsaSignature="MCwCFAHxNYKw1fzWOGX3g017zIR7kHn2AhQZGFrjttXDcScBPa97xxCM87Z1jw==" length="6827557" type="application/octet-stream"/>
+            <pubDate>Wed, 12 Jul 2017 00:50:00 +0900</pubDate>
+            <enclosure url="http://sourceforge.net/projects/xld/files/xld-20170710-2.dmg" sparkle:version="150.1" sparkle:shortVersionString="20170710" sparkle:dsaSignature="MCwCFERyR7jD09sGCIFU3kuFwZPWQ8hMAhRzINBjuylseIX2qKWA4n/JfvdW8w==" length="6824686" type="application/octet-stream"/>
          </item>
    </channel>
 </rss>
